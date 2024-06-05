@@ -1,1 +1,1 @@
-#Statistcal methods for Image segmetation
+#Statistcal-methods-for-Image-segmetation
