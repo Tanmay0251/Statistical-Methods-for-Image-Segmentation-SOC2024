@@ -1,1 +1,1 @@
-# Statistical-Methods-for-Image-Segmentation-SOC2024
+#Statistcal methods for Image segmetation
